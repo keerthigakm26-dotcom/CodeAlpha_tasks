@@ -1,4 +1,4 @@
-# 📊 Task 2 & Task 3: Exploratory Data Analysis (EDA) and Data Visualization
+# 📊 Task 1 & Task 2: Exploratory Data Analysis (EDA) and Data Visualization
 
 ## 🎯 Aim
 To explore the dataset, understand its structure, detect patterns and data issues using Exploratory Data Analysis (EDA), and to represent the data using visual charts for better understanding and decision making.
